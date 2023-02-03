@@ -4,12 +4,12 @@ const  { indonesia, english, spanyol} = require(`./language`)
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://youtube.com/@emperoranus7621', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
+	'https://youtube.com/@emperoranus7621': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
@@ -27,24 +27,24 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ RASHMIKA ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "janith20062006@gmail.com" //bebas
+global.botname = "EMPERORANUS" //namabot kalian
+global.ownername= "ᴹᴿ᭄ EMPERORANUS ×፝֟͜×" //nama kalian
+global.myweb ="https://youtube.com/@emperoranus7621" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@emperoranus7621" //bebas asal jan hapus
+global.myweb2 = "https://youtube.com/@emperoranus7621" //bebas
+global.email = "967771160204@gmail.com" //bebas
 global.region = "Sri Lanka" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['94717775628'] //premium user
-global.owner = ["94717775628"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "94717775628" // nomor wa kalian
-global.ownernomerr = "+94717775628" //nmr wa kalian
+global.premium = ['967771160204'] //premium user
+global.owner = ["967771160204"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "967771160204" // nomor wa kalian
+global.ownernomerr = "967771160204" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.background_welcome="https://telegra.ph/file/1592262447c5ce8714b60.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.packname = '© حقوق عمك انوس-Mdོ' //sticker wm ubah
+global.author = 'حقوق انوس' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
