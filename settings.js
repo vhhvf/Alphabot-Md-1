@@ -53,20 +53,20 @@ global.limitawal = {
     free: 100
 }
 
-global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
-global.bankRPG = 'https://telegra.ph/file/ce47dca98cfdb34162abb.png'
-global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
-global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
-global.berburuRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
-global.inventoryRPG = 'https://telegra.ph/file/507395e2edbd1d740a0fd.png'
-global.cooldownRPG = 'https://telegra.ph/file/5e1e191a47028d9648ffa.jpg'
-global.dailyRPG = 'https://telegra.ph/file/17e857848a3afdb1c4fd8.jpg'
-global.hourlyRPG = 'https://telegra.ph/file/bcabf71c0f56207d1629e.jpg'
-global.kandangRPG = 'https://telegra.ph/file/89c3b3ec69d373da8f64b.jpg'
-global.kolamRGP = 'https://telegra.ph/file/0bc07117c78b2c9674b7d.jpg'
-global.mancingRPG = 'https://telegra.ph/file/1420d26b7f04f84993225.jpg'
-global.monthlyRPG = 'https://telegra.ph/file/7eadf65b95d9f7a3ecb46.jpg'
-global.weeklyRPG = 'https://telegra.ph/file/ffc85895d14db97931f0f.jpg'
+global.adventureRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.bankRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.bansosRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.bansosRPG_ = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.berburuRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.inventoryRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.cooldownRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.dailyRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.hourlyRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.kandangRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.kolamRGP = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.mancingRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.monthlyRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
+global.weeklyRPG = 'https://telegra.ph/file/1592262447c5ce8714b60.jpg'
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
@@ -118,16 +118,16 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+    sukses: '🤗اكه ديسكو ~',
+    admin: '🎭لا يمكن استخدام هذا الأمر إلا من قبل المسؤولين🎭!',
+    botAdmin: 'لا يمكن استخدام هذا الأمر إلا عندما يكون الروبوت مسؤولا!',
+    owner: '🌀لا يمكن استخدام هذا الأمر إلا من قبل المالك🌀!',
+    group: '🎭لا يمكن استخدام هذا الأمر إلا في مجموعات🎭!',
+    private: '🕸️لا يمكن استخدام هذا الأمر إلا على انفراد🕸️ !',
+	bot: '🤖عدد بوت ميزات محددة للمستخدم🤖',
+    errtoimg: '🔖ماف سات إيني بيلوم دعم ملصق جيف🔖!',
+    wait: '⏳ يرجى الانتظار',
+	lockCmd: '⚜️الميزات غير ممكنة من قبل المالك⚜️!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
