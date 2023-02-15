@@ -57,10 +57,10 @@
 
 But some I haven't changed the language 🛐
 
-# Instalasi
-## FOR REPLIT USER
+# من هنا يمكنكا رفع البوت👇من هنا شرحنا البوت عليك اعديل وثما انتقل الي هنا
+## رفع البوت في Replit 
 
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Alphabot-Md)](https://repl.it/github/zeeone-ofc/Alphabot-Md)
+[![لرفع البوت إضغط هنا](https://replit.com/github/vhhvf/Alphabot-Md-1)](https://replit.com/github/vhhvf/Alphabot-Md-1)
 
 ----------
 
@@ -199,43 +199,7 @@ global.rpg = {
 </details>
 
 ----------
-
-## Fitur bot preview
-<details>
-<summary> <b>Menu bot</b></summary><br/>
-<img src="https://telegra.ph/file/c438a5d2931a2c5228735.jpg" />
-<img src="https://telegra.ph/file/51ef048fdd08cffcef075.jpg" />
-</details>
-
-<details>
-<summary> <b>First chat</b></summary><br/>
-<img src="https://telegra.ph/file/98dce708f8bfdb73c175e.jpg" />
-</details>
-
-<details>
-<summary> <b>Register</b></summary><br/>
-<img src="https://telegra.ph/file/ca4d6b39f9b596de02b9b.jpg" />
-</details>
-
-## Donate
-- [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
-- [Paypal](https://paypal.me/zeeoneofc)
-
-# Official Group
-<a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-# Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+# المطور
+<a href="https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz"><img src="https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
-Constributor | For Help |
-<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
-[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
-For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
-
+[مرحبا أنا المطور الي هذا البوت لقبي انوس واسمي شهاب 
