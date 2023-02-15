@@ -1,4 +1,4 @@
-## BACA DULU BANG
+## أهلا وسهلا بك 🤭 
 
 > **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeone-ofc/Alphabot-Md#For-Termux)
 
@@ -68,21 +68,21 @@ But some I haven't changed the language 🛐
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md)
 
-- [`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
+- [`كيف صنع البوتl`](https://youtube.com/@emperoranus7621)<br>
 
-<a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
+<a href="https://youtu.be/QFCWyQOftr0"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
 
 ----------
 
 ## For Termux
 
-- [`Download script MediaFire`](https://youtu.be/iGKJDJxYG98)
+- [`Download script MediaFire`](https://youtu.be/QFCWyQOftr0)
 
 <a href="https://youtu.be/iGKJDJxYG98"><img src="https://telegra.ph/file/7c40da18ca3d746d0c815.jpg" />
 
 ----------
 
-## Edit Owner 
+## تعديل المالك
 
 <details>
     <summary> <b>Edit Owner Settings.js</b></summary><br/>
@@ -113,17 +113,17 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.ownername= "ᴹᴿ᭄ EMP ERORANUS ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@emperoranus7621" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['967771160204'] //premium user
+global.owner = ["967771160204"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "967771160204" // nomor wa kalian
+global.ownernomerr = "967771160204" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
